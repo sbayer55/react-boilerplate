@@ -4,6 +4,7 @@
   "description": "A bare bones template using Gulp, Webpack, and React",
   "main": "index.js",
   "scripts": {
+    "start": "node ./node_modules/gulp/bin/gulp.js",
     "test": "node ./node_modules/gulp/bin/gulp.js"
   },
   "keywords": [
